@@ -4,7 +4,7 @@
 - I’m currently working as freelancer developer on websites and editor📽
 - Status: Graduating Computer Science 👨🏻‍💻
 
-<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahlimadev&layout=donut&langs_count=7&theme=tokyonight" />
+<img width="320px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahlimadev&layout=donut&langs_count=7&theme=tokyonight" />
 
 <hr>
 
