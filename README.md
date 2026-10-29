@@ -12,7 +12,7 @@
 <h3>Skills</h3>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,discordjs,wordpress,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,discordjs,wordpress)](https://skillicons.dev)
 
 
 <h3>Operational System</h3>
