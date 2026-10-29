@@ -1,8 +1,9 @@
-### 𝖧𝖾𝖾𝗒! 𝖨'𝗆 Noah, 𝗃𝗎𝗌𝗍 𝗋𝖺𝗇𝖽𝗈𝗆 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🌱
+### 𝖧𝖾𝖾𝗒! 𝖨'𝗆 Noah, a FullStack developer 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🌱
 
 
 - I’m currently working as freelancer developer on websites and editor📽
 - Status: Graduating Computer Science 👨🏻‍💻
+- Thanks for visiting!
 
 <img width="320px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahlimadev&layout=donut&langs_count=7&theme=tokyonight" />
 
